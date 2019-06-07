@@ -1,0 +1,1412 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{andrist2015look}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=8e0fd21445e3178de843860ca9a62794}{%
+           family={Andrist},
+           familyi={A\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bd9710ee000b3d54328965e97bed40c1}{%
+           family={Mutlu},
+           familyi={M\bibinitperiod},
+           given={Bilge},
+           giveni={B\bibinitperiod}}}%
+        {{hash=2f6edcae99d9beb937f9ffb710c21697}{%
+           family={Tapus},
+           familyi={T\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{742260bebfd162774c8b273ebf145e17}
+      \strng{fullhash}{742260bebfd162774c8b273ebf145e17}
+      \strng{bibnamehash}{742260bebfd162774c8b273ebf145e17}
+      \strng{authorbibnamehash}{742260bebfd162774c8b273ebf145e17}
+      \strng{authornamehash}{742260bebfd162774c8b273ebf145e17}
+      \strng{authorfullhash}{742260bebfd162774c8b273ebf145e17}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 33rd annual ACM conference on human factors in computing systems}
+      \field{title}{Look like me: matching robot personality via gaze to increase motivation}
+      \field{year}{2015}
+      \field{pages}{3603\bibrangedash 3612}
+      \range{pages}{10}
+    \endentry
+    \entry{beer2014toward}{article}{}
+      \name{author}{3}{}{%
+        {{hash=aa5b703537193f10ff5afaadc267cd8f}{%
+           family={Beer},
+           familyi={B\bibinitperiod},
+           given={Jenay\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=844ec92395b2974ff3ba96dc82cd9794}{%
+           family={Fisk},
+           familyi={F\bibinitperiod},
+           given={Arthur\bibnamedelima D},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=5c15c43c50b8500dbce2344b10305d6e}{%
+           family={Rogers},
+           familyi={R\bibinitperiod},
+           given={Wendy\bibnamedelima A},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Journal of Human-Robot Interaction Steering Committee}%
+      }
+      \strng{namehash}{52ec91e88a1a87a984170afbab440e7f}
+      \strng{fullhash}{52ec91e88a1a87a984170afbab440e7f}
+      \strng{bibnamehash}{52ec91e88a1a87a984170afbab440e7f}
+      \strng{authorbibnamehash}{52ec91e88a1a87a984170afbab440e7f}
+      \strng{authornamehash}{52ec91e88a1a87a984170afbab440e7f}
+      \strng{authorfullhash}{52ec91e88a1a87a984170afbab440e7f}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Human-Robot Interaction}
+      \field{number}{2}
+      \field{title}{Toward a framework for levels of robot autonomy in human-robot interaction}
+      \field{volume}{3}
+      \field{year}{2014}
+      \field{pages}{74\bibrangedash 99}
+      \range{pages}{26}
+    \endentry
+    \entry{cakmak2010designing}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0e2f8c7412f8e62e8a98780c05925676}{%
+           family={Cakmak},
+           familyi={C\bibinitperiod},
+           given={Maya},
+           giveni={M\bibinitperiod}}}%
+        {{hash=74d52c2fdab8049083a5f57f6d4e8188}{%
+           family={Chao},
+           familyi={C\bibinitperiod},
+           given={Crystal},
+           giveni={C\bibinitperiod}}}%
+        {{hash=953e82d5cc872d7b69386617cf7382f5}{%
+           family={Thomaz},
+           familyi={T\bibinitperiod},
+           given={Andrea\bibnamedelima L},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers, Inc.,| y USA United States of America}%
+      }
+      \strng{namehash}{616e5360256d66b3965b4f991cd4edf0}
+      \strng{fullhash}{616e5360256d66b3965b4f991cd4edf0}
+      \strng{bibnamehash}{616e5360256d66b3965b4f991cd4edf0}
+      \strng{authorbibnamehash}{616e5360256d66b3965b4f991cd4edf0}
+      \strng{authornamehash}{616e5360256d66b3965b4f991cd4edf0}
+      \strng{authorfullhash}{616e5360256d66b3965b4f991cd4edf0}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Autonomous Mental Development}
+      \field{number}{2}
+      \field{title}{Designing interactions for robot active learners}
+      \field{volume}{2}
+      \field{year}{2010}
+      \field{pages}{108\bibrangedash 118}
+      \range{pages}{11}
+    \endentry
+    \entry{endsley1995out}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4c4076a9d75f329759cafbd09a0cbae8}{%
+           family={Endsley},
+           familyi={E\bibinitperiod},
+           given={Mica\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=67cd9ad2ad607bfe367bd87792c9b9cf}{%
+           family={Kiris},
+           familyi={K\bibinitperiod},
+           given={Esin\bibnamedelima O},
+           giveni={E\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{1302747038b90cfdf550113d12ac2010}
+      \strng{fullhash}{1302747038b90cfdf550113d12ac2010}
+      \strng{bibnamehash}{1302747038b90cfdf550113d12ac2010}
+      \strng{authorbibnamehash}{1302747038b90cfdf550113d12ac2010}
+      \strng{authornamehash}{1302747038b90cfdf550113d12ac2010}
+      \strng{authorfullhash}{1302747038b90cfdf550113d12ac2010}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human factors}
+      \field{number}{2}
+      \field{title}{The out-of-the-loop performance problem and level of control in automation}
+      \field{volume}{37}
+      \field{year}{1995}
+      \field{pages}{381\bibrangedash 394}
+      \range{pages}{14}
+    \endentry
+    \entry{eriksson2005hands}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=b7e430eb5397756d140fdbf35690a75a}{%
+           family={Eriksson},
+           familyi={E\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6d035ac9587bd20b4992af4895fe6227}{%
+           family={Mataric},
+           familyi={M\bibinitperiod},
+           given={Maja\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2d0fe0cf59429c2eb12be429e3201879}{%
+           family={Winstein},
+           familyi={W\bibinitperiod},
+           given={Carolee\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{282da8b80074bda11438e257ea2738bc}
+      \strng{fullhash}{282da8b80074bda11438e257ea2738bc}
+      \strng{bibnamehash}{282da8b80074bda11438e257ea2738bc}
+      \strng{authorbibnamehash}{282da8b80074bda11438e257ea2738bc}
+      \strng{authornamehash}{282da8b80074bda11438e257ea2738bc}
+      \strng{authorfullhash}{282da8b80074bda11438e257ea2738bc}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Rehabilitation Robotics, 2005. ICORR 2005. 9th International Conference on}
+      \field{title}{Hands-off assistive robotics for post-stroke arm rehabilitation}
+      \field{year}{2005}
+      \field{pages}{21\bibrangedash 24}
+      \range{pages}{4}
+    \endentry
+    \entry{fasola2013socially}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ed58a25c13e816489e4dcfd964aa6843}{%
+           family={Fasola},
+           familyi={F\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=11fafaff05a5e99f628bd2b42cf6dd57}{%
+           family={Mataric},
+           familyi={M\bibinitperiod},
+           given={Maja},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f6efd403d99cefd61a12e5c5567b70bc}
+      \strng{fullhash}{f6efd403d99cefd61a12e5c5567b70bc}
+      \strng{bibnamehash}{f6efd403d99cefd61a12e5c5567b70bc}
+      \strng{authorbibnamehash}{f6efd403d99cefd61a12e5c5567b70bc}
+      \strng{authornamehash}{f6efd403d99cefd61a12e5c5567b70bc}
+      \strng{authorfullhash}{f6efd403d99cefd61a12e5c5567b70bc}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Human-Robot Interaction}
+      \field{number}{2}
+      \field{title}{A socially assistive robot exercise coach for the elderly}
+      \field{volume}{2}
+      \field{year}{2013}
+      \field{pages}{3\bibrangedash 32}
+      \range{pages}{30}
+    \endentry
+    \entry{freedy2007measurement}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=a2d01ebcf703a81e5c61cb5c48862c92}{%
+           family={Freedy},
+           familyi={F\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bcd98942a61b930ea382b9b7f7e9061f}{%
+           family={DeVisser},
+           familyi={D\bibinitperiod},
+           given={Ewart},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a38fbffb3288a9a32c1f5ba0447f8809}{%
+           family={Weltman},
+           familyi={W\bibinitperiod},
+           given={Gershon},
+           giveni={G\bibinitperiod}}}%
+        {{hash=223e41480a9c169f593a4f38fe3d58c0}{%
+           family={Coeyman},
+           familyi={C\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{cc1bde8c172dfca78694be4bc977b265}
+      \strng{fullhash}{edd17e8a523cf0f636b6425a0fb2cdb8}
+      \strng{bibnamehash}{cc1bde8c172dfca78694be4bc977b265}
+      \strng{authorbibnamehash}{cc1bde8c172dfca78694be4bc977b265}
+      \strng{authornamehash}{cc1bde8c172dfca78694be4bc977b265}
+      \strng{authorfullhash}{edd17e8a523cf0f636b6425a0fb2cdb8}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Collaborative Technologies and Systems, 2007. CTS 2007. International Symposium on}
+      \field{title}{Measurement of trust in human-robot collaboration}
+      \field{year}{2007}
+      \field{pages}{106\bibrangedash 114}
+      \range{pages}{9}
+    \endentry
+    \entry{gouaillier2008nao}{article}{}
+      \name{author}{9}{}{%
+        {{hash=bad73ac79c3d3e657e4d147db1e217fb}{%
+           family={Gouaillier},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d360ccd42a14f22bdf05fed91592da71}{%
+           family={Hugel},
+           familyi={H\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=f9022d947a4b4c3bbec6c8a751c6fde2}{%
+           family={Blazevic},
+           familyi={B\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7e296306f9de6e8361887bfd138583bb}{%
+           family={Kilner},
+           familyi={K\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0b70e8022d7bab4a15cb8572a92d1f02}{%
+           family={Monceaux},
+           familyi={M\bibinitperiod},
+           given={Jerome},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e88b1be64dfef3e52e7b44340e8e6675}{%
+           family={Lafourcade},
+           familyi={L\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+        {{hash=033387552036ba5ee7f074a4d876d237}{%
+           family={Marnier},
+           familyi={M\bibinitperiod},
+           given={Brice},
+           giveni={B\bibinitperiod}}}%
+        {{hash=500d57ce869b7541f72fdd8b9888d28d}{%
+           family={Serre},
+           familyi={S\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2ce516743e0b23ea2efdfa1ede5be6d7}{%
+           family={Maisonnier},
+           familyi={M\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{89d27d803b5d36ced46ebd584f6b743b}
+      \strng{fullhash}{e46c3056fb7d7b514e5e64056013bc42}
+      \strng{bibnamehash}{89d27d803b5d36ced46ebd584f6b743b}
+      \strng{authorbibnamehash}{89d27d803b5d36ced46ebd584f6b743b}
+      \strng{authornamehash}{89d27d803b5d36ced46ebd584f6b743b}
+      \strng{authorfullhash}{e46c3056fb7d7b514e5e64056013bc42}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CoRR abs/0807.3223}
+      \field{title}{The nao humanoid: a combination of performance and affordability}
+      \field{year}{2008}
+    \endentry
+    \entry{guneysu2017}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=e1c3a198c40276dcf651e818b0055247}{%
+           family={Guneysu},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=788c8862645a527563976cfc857211e0}{%
+           family={Arnrich},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{36ec74585a5c5d4d1a2a327c9c75d06e}
+      \strng{fullhash}{36ec74585a5c5d4d1a2a327c9c75d06e}
+      \strng{bibnamehash}{36ec74585a5c5d4d1a2a327c9c75d06e}
+      \strng{authorbibnamehash}{36ec74585a5c5d4d1a2a327c9c75d06e}
+      \strng{authornamehash}{36ec74585a5c5d4d1a2a327c9c75d06e}
+      \strng{authorfullhash}{36ec74585a5c5d4d1a2a327c9c75d06e}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)}
+      \field{month}{8}
+      \field{title}{Socially assistive child-robot interaction in physical exercise coaching}
+      \field{year}{2017}
+      \field{pages}{670\bibrangedash 675}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ROMAN.2017.8172375
+      \endverb
+      \keyw{Manipulators;Motion measurement;Pediatrics;Robot sensing systems;Time measurement;Training}
+    \endentry
+    \entry{hancock2011meta}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2cd63fdeb7635ada82df27eda081c8ff}{%
+           family={Hancock},
+           familyi={H\bibinitperiod},
+           given={Peter\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2d9c6944a379e8ef77b0909efa3c588d}{%
+           family={Billings},
+           familyi={B\bibinitperiod},
+           given={Deborah\bibnamedelima R},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7db121461987622a9422ee6f53297740}{%
+           family={Schaefer},
+           familyi={S\bibinitperiod},
+           given={Kristin\bibnamedelima E},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=c4385626ece2de6fb97066d34d07f80f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jessie\bibnamedelima YC},
+           giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=8e0788f1512794e1100341a4b80a4227}{%
+           family={De\bibnamedelima Visser},
+           familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Ewart\bibnamedelima J},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a4f897573d0e950a6e02bdbb1ecdb22c}{%
+           family={Parasuraman},
+           familyi={P\bibinitperiod},
+           given={Raja},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{04ed4ac68b3952c741da79f857ae479e}
+      \strng{fullhash}{92163557e51744f7a2ad6f92d251bbf1}
+      \strng{bibnamehash}{04ed4ac68b3952c741da79f857ae479e}
+      \strng{authorbibnamehash}{04ed4ac68b3952c741da79f857ae479e}
+      \strng{authornamehash}{04ed4ac68b3952c741da79f857ae479e}
+      \strng{authorfullhash}{92163557e51744f7a2ad6f92d251bbf1}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human Factors}
+      \field{number}{5}
+      \field{title}{A meta-analysis of factors affecting trust in human-robot interaction}
+      \field{volume}{53}
+      \field{year}{2011}
+      \field{pages}{517\bibrangedash 527}
+      \range{pages}{11}
+    \endentry
+    \entry{horvath1989development}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6bab89f766afc4ee8785efe53b030bde}{%
+           family={Horvath},
+           familyi={H\bibinitperiod},
+           given={Adam\bibnamedelima O},
+           giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=26bb618ceb56d74ad267467cdea545bd}{%
+           family={Greenberg},
+           familyi={G\bibinitperiod},
+           given={Leslie\bibnamedelima S},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{546e52cca37d5f1e3bfae7633fc99910}
+      \strng{fullhash}{546e52cca37d5f1e3bfae7633fc99910}
+      \strng{bibnamehash}{546e52cca37d5f1e3bfae7633fc99910}
+      \strng{authorbibnamehash}{546e52cca37d5f1e3bfae7633fc99910}
+      \strng{authornamehash}{546e52cca37d5f1e3bfae7633fc99910}
+      \strng{authorfullhash}{546e52cca37d5f1e3bfae7633fc99910}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of counseling psychology}
+      \field{number}{2}
+      \field{title}{Development and validation of the Working Alliance Inventory.}
+      \field{volume}{36}
+      \field{year}{1989}
+      \field{pages}{223}
+      \range{pages}{1}
+    \endentry
+    \entry{corry}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=ffd316eeb19eec6d5c0aeb5beb3e0884}{%
+           family={Kidd},
+           familyi={K\bibinitperiod},
+           given={C.\bibnamedelimi D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=0f25a052aa72f2937979757db07fe015}{%
+           family={Breazeal},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{210ca50e7f958d30c72faf3ed67ebf8a}
+      \strng{fullhash}{210ca50e7f958d30c72faf3ed67ebf8a}
+      \strng{bibnamehash}{210ca50e7f958d30c72faf3ed67ebf8a}
+      \strng{authorbibnamehash}{210ca50e7f958d30c72faf3ed67ebf8a}
+      \strng{authornamehash}{210ca50e7f958d30c72faf3ed67ebf8a}
+      \strng{authorfullhash}{210ca50e7f958d30c72faf3ed67ebf8a}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2008 {IEEE/RSJ} International Conference on Intelligent Robots and Systems}
+      \field{title}{Robots at home: Understanding long-term human-robot interaction}
+      \field{year}{2008}
+      \field{pages}{3230\bibrangedash 3235}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/IROS.2008.4651113
+      \endverb
+    \endentry
+    \entry{komiyama2016copeland}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a407b0ed6c8bf535de89242dad1fed73}{%
+           family={Komiyama},
+           familyi={K\bibinitperiod},
+           given={Junpei},
+           giveni={J\bibinitperiod}}}%
+        {{hash=015dc4f66bfed9a2fdc6af0da213f15c}{%
+           family={Honda},
+           familyi={H\bibinitperiod},
+           given={Junya},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b01f940f61aac34396c315ca8697b84a}{%
+           family={Nakagawa},
+           familyi={N\bibinitperiod},
+           given={Hiroshi},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5b560222f41634b763fabfdf7d9a281}
+      \strng{fullhash}{c5b560222f41634b763fabfdf7d9a281}
+      \strng{bibnamehash}{c5b560222f41634b763fabfdf7d9a281}
+      \strng{authorbibnamehash}{c5b560222f41634b763fabfdf7d9a281}
+      \strng{authornamehash}{c5b560222f41634b763fabfdf7d9a281}
+      \strng{authorfullhash}{c5b560222f41634b763fabfdf7d9a281}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1605.01677}
+      \field{title}{Copeland dueling bandit problem: Regret lower bound, optimal algorithm, and computationally efficient algorithm}
+      \field{year}{2016}
+    \endentry
+    \entry{komiyama2015regret}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=a407b0ed6c8bf535de89242dad1fed73}{%
+           family={Komiyama},
+           familyi={K\bibinitperiod},
+           given={Junpei},
+           giveni={J\bibinitperiod}}}%
+        {{hash=015dc4f66bfed9a2fdc6af0da213f15c}{%
+           family={Honda},
+           familyi={H\bibinitperiod},
+           given={Junya},
+           giveni={J\bibinitperiod}}}%
+        {{hash=32fc6ae468e6012f7822868c12d9c044}{%
+           family={Kashima},
+           familyi={K\bibinitperiod},
+           given={Hisashi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b01f940f61aac34396c315ca8697b84a}{%
+           family={Nakagawa},
+           familyi={N\bibinitperiod},
+           given={Hiroshi},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{578bf52c27dacc8c0f578344ca22836c}
+      \strng{fullhash}{7b2f0a4951eeefaaebd90a1988e5c6f8}
+      \strng{bibnamehash}{578bf52c27dacc8c0f578344ca22836c}
+      \strng{authorbibnamehash}{578bf52c27dacc8c0f578344ca22836c}
+      \strng{authornamehash}{578bf52c27dacc8c0f578344ca22836c}
+      \strng{authorfullhash}{7b2f0a4951eeefaaebd90a1988e5c6f8}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Conference on Learning Theory}
+      \field{title}{Regret lower bound and optimal algorithm in dueling bandit problem}
+      \field{year}{2015}
+      \field{pages}{1141\bibrangedash 1154}
+      \range{pages}{14}
+    \endentry
+    \entry{leite2011modelling}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=c63f189ab174f6f8281e925e6b16de31}{%
+           family={Leite},
+           familyi={L\bibinitperiod},
+           given={Iolanda},
+           giveni={I\bibinitperiod}}}%
+        {{hash=0334bbc52cb2af79c91c4a53946ce07e}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Andr{é}},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2180e98c009bcfbc4c2c3abbd7ed081b}{%
+           family={Castellano},
+           familyi={C\bibinitperiod},
+           given={Ginevra},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f45ccba73e04ea052a10dd02e3125765}{%
+           family={Mascarenhas},
+           familyi={M\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ddf56ab13b8c81fb076b15bec419de01}{%
+           family={Martinho},
+           familyi={M\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6ddbc2a0c966a17e197c3f1c76e00a68}{%
+           family={Paiva},
+           familyi={P\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1029b612f16aee03b747a7c13bc81549}
+      \strng{fullhash}{f44e05677469df0c73dca8635716d14f}
+      \strng{bibnamehash}{1029b612f16aee03b747a7c13bc81549}
+      \strng{authorbibnamehash}{1029b612f16aee03b747a7c13bc81549}
+      \strng{authornamehash}{1029b612f16aee03b747a7c13bc81549}
+      \strng{authorfullhash}{f44e05677469df0c73dca8635716d14f}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on User Modeling, Adaptation, and Personalization}
+      \field{title}{Modelling empathy in social robotic companions}
+      \field{year}{2011}
+      \field{pages}{135\bibrangedash 147}
+      \range{pages}{13}
+    \endentry
+    \entry{leyzberg2014personalizing}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=7fda83fb090a5e8eaca44499eeb1e495}{%
+           family={Leyzberg},
+           familyi={L\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=87409ddc6a258f614c582fb6b897273d}{%
+           family={Spaulding},
+           familyi={S\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+        {{hash=052e75642103215e79dde81e3e348764}{%
+           family={Scassellati},
+           familyi={S\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{fdd3a1133a7594c1f4e334fd05cbdc8f}
+      \strng{fullhash}{fdd3a1133a7594c1f4e334fd05cbdc8f}
+      \strng{bibnamehash}{fdd3a1133a7594c1f4e334fd05cbdc8f}
+      \strng{authorbibnamehash}{fdd3a1133a7594c1f4e334fd05cbdc8f}
+      \strng{authornamehash}{fdd3a1133a7594c1f4e334fd05cbdc8f}
+      \strng{authorfullhash}{fdd3a1133a7594c1f4e334fd05cbdc8f}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2014 ACM/IEEE international conference on Human-robot interaction}
+      \field{title}{Personalizing robot tutors to individuals' learning differences}
+      \field{year}{2014}
+      \field{pages}{423\bibrangedash 430}
+      \range{pages}{8}
+    \endentry
+    \entry{madsen2000measuring}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=860a688bf5ff9050aca12be4b3ea4b9d}{%
+           family={Madsen},
+           familyi={M\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6cb3773d13196927d56a5877ea24b6a2}{%
+           family={Gregor},
+           familyi={G\bibinitperiod},
+           given={Shirley},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{411d86ad6b2d6d4dc8b45e15acc4220d}
+      \strng{fullhash}{411d86ad6b2d6d4dc8b45e15acc4220d}
+      \strng{bibnamehash}{411d86ad6b2d6d4dc8b45e15acc4220d}
+      \strng{authorbibnamehash}{411d86ad6b2d6d4dc8b45e15acc4220d}
+      \strng{authornamehash}{411d86ad6b2d6d4dc8b45e15acc4220d}
+      \strng{authorfullhash}{411d86ad6b2d6d4dc8b45e15acc4220d}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{11th australasian conference on information systems}
+      \field{title}{Measuring human-computer trust}
+      \field{volume}{53}
+      \field{year}{2000}
+      \field{pages}{6\bibrangedash 8}
+      \range{pages}{3}
+    \endentry
+    \entry{Martelaro}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=f679130f9f0c3854167cb82cb6549f1c}{%
+           family={Martelaro},
+           familyi={M\bibinitperiod},
+           given={Nikolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=50091cd164ca0792aa3a40d087b3aeca}{%
+           family={Nneji},
+           familyi={N\bibinitperiod},
+           given={Victoria\bibnamedelima C.},
+           giveni={V\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=e4a42f6212d7fd6bd5592010271229c0}{%
+           family={Ju},
+           familyi={J\bibinitperiod},
+           given={Wendy},
+           giveni={W\bibinitperiod}}}%
+        {{hash=89bd0d8a5d556e42258d8fec5aaf3b5a}{%
+           family={Hinds},
+           familyi={H\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Christchurch, New Zealand}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Press}%
+      }
+      \strng{namehash}{4835e35f8416a7b6ceec395becf53e79}
+      \strng{fullhash}{3503a5084fa4ad98d8370bd28778cc41}
+      \strng{bibnamehash}{4835e35f8416a7b6ceec395becf53e79}
+      \strng{authorbibnamehash}{4835e35f8416a7b6ceec395becf53e79}
+      \strng{authornamehash}{4835e35f8416a7b6ceec395becf53e79}
+      \strng{authorfullhash}{3503a5084fa4ad98d8370bd28778cc41}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Eleventh ACM/IEEE International Conference on Human Robot Interaction}
+      \field{isbn}{978-1-4673-8370-7}
+      \field{series}{HRI '16}
+      \field{title}{Tell Me More: Designing HRI to Encourage More Trust, Disclosure, and Companionship}
+      \field{year}{2016}
+      \field{pages}{181\bibrangedash 188}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb http://dl.acm.org/citation.cfm?id=2906831.2906863
+      \endverb
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2906831.2906863
+      \endverb
+      \keyw{companionship,design,disclosure,experimentation,human-robot interaction,trust}
+    \endentry
+    \entry{mcallister1995affect}{article}{}
+      \name{author}{1}{}{%
+        {{hash=712e56735b2051f7461b47546ecd8e47}{%
+           family={McAllister},
+           familyi={M\bibinitperiod},
+           given={Daniel\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academy of Management Briarcliff Manor, NY 10510}%
+      }
+      \strng{namehash}{712e56735b2051f7461b47546ecd8e47}
+      \strng{fullhash}{712e56735b2051f7461b47546ecd8e47}
+      \strng{bibnamehash}{712e56735b2051f7461b47546ecd8e47}
+      \strng{authorbibnamehash}{712e56735b2051f7461b47546ecd8e47}
+      \strng{authornamehash}{712e56735b2051f7461b47546ecd8e47}
+      \strng{authorfullhash}{712e56735b2051f7461b47546ecd8e47}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Academy of management journal}
+      \field{number}{1}
+      \field{title}{Affect-and cognition-based trust as foundations for interpersonal cooperation in organizations}
+      \field{volume}{38}
+      \field{year}{1995}
+      \field{pages}{24\bibrangedash 59}
+      \range{pages}{36}
+    \endentry
+    \entry{mitsunaga2008adapting}{article}{}
+      \name{author}{5}{}{%
+        {{hash=efaaa7c4b88ac838600dde2bf7e961a2}{%
+           family={Mitsunaga},
+           familyi={M\bibinitperiod},
+           given={Noriaki},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0ab0ad1d7ac15fbbb41089edd6c927e4}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=401c2b6898c4cc146157500b540f459b}{%
+           family={Kanda},
+           familyi={K\bibinitperiod},
+           given={Takayuki},
+           giveni={T\bibinitperiod}}}%
+        {{hash=65969149151d8c3a46cb3adda3d7d701}{%
+           family={Ishiguro},
+           familyi={I\bibinitperiod},
+           given={Hiroshi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=798e47eba69923a73b15644c26f0b2b7}{%
+           family={Hagita},
+           familyi={H\bibinitperiod},
+           given={Norihiro},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {New York: Institute of Electrical}%
+        {Electronics Engineers, c2004-}%
+      }
+      \strng{namehash}{6f0087ca934c5787efc16cf862186cb2}
+      \strng{fullhash}{056c2cfcbdf398fff900204a2015e2c8}
+      \strng{bibnamehash}{6f0087ca934c5787efc16cf862186cb2}
+      \strng{authorbibnamehash}{6f0087ca934c5787efc16cf862186cb2}
+      \strng{authornamehash}{6f0087ca934c5787efc16cf862186cb2}
+      \strng{authorfullhash}{056c2cfcbdf398fff900204a2015e2c8}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Robotics}
+      \field{number}{4}
+      \field{title}{Adapting robot behavior for human-robot interaction}
+      \field{volume}{24}
+      \field{year}{2008}
+      \field{pages}{911\bibrangedash 916}
+      \range{pages}{6}
+    \endentry
+    \entry{pot2009choregraphe}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=f53e4a5fa441adf9dcfff91c29949bae}{%
+           family={Pot},
+           familyi={P\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5b2fd69ee707d06909ee28c77c0f6025}{%
+           family={Monceaux},
+           familyi={M\bibinitperiod},
+           given={J{é}r{ô}me},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b82066d7a7e41eb76a56a1919d6cb11f}{%
+           family={Gelin},
+           familyi={G\bibinitperiod},
+           given={Rodolphe},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2ce516743e0b23ea2efdfa1ede5be6d7}{%
+           family={Maisonnier},
+           familyi={M\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c44a17b7db7cce36d57b840a8c5de87a}
+      \strng{fullhash}{3d3a868c14225fff731a9a3accd34bec}
+      \strng{bibnamehash}{c44a17b7db7cce36d57b840a8c5de87a}
+      \strng{authorbibnamehash}{c44a17b7db7cce36d57b840a8c5de87a}
+      \strng{authornamehash}{c44a17b7db7cce36d57b840a8c5de87a}
+      \strng{authorfullhash}{3d3a868c14225fff731a9a3accd34bec}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Robot and Human Interactive Communication, 2009. RO-MAN 2009. The 18th IEEE International Symposium on}
+      \field{title}{Choregraphe: a graphical tool for humanoid robot programming}
+      \field{year}{2009}
+      \field{pages}{46\bibrangedash 51}
+      \range{pages}{6}
+    \endentry
+    \entry{rau2013effects}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7dfb17365d8279ab1aceaf4ac7af359f}{%
+           family={Rau},
+           familyi={R\bibinitperiod},
+           given={Pei-Luen\bibnamedelima Patrick},
+           giveni={P\bibinithyphendelim L\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=6230ba6812a667f25b0b53c1ac713629}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Ye},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f2a0a4f5a03bef37fc5552061319cb71}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hindawi Publishing Corp.}%
+      }
+      \strng{namehash}{ce0cd83613e22f4b0dbf9fc3d909a784}
+      \strng{fullhash}{ce0cd83613e22f4b0dbf9fc3d909a784}
+      \strng{bibnamehash}{ce0cd83613e22f4b0dbf9fc3d909a784}
+      \strng{authorbibnamehash}{ce0cd83613e22f4b0dbf9fc3d909a784}
+      \strng{authornamehash}{ce0cd83613e22f4b0dbf9fc3d909a784}
+      \strng{authorfullhash}{ce0cd83613e22f4b0dbf9fc3d909a784}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Human-Computer Interaction}
+      \field{title}{Effects of a social robot's autonomy and group orientation on human decision-making}
+      \field{volume}{2013}
+      \field{year}{2013}
+      \field{pages}{11}
+      \range{pages}{1}
+    \endentry
+    \entry{rhodes2006personality}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7c9a88f44819deac754f737a1ed8e88e}{%
+           family={Rhodes},
+           familyi={R\bibinitperiod},
+           given={RE},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c9c2b01a737fbc4eab3d74bc47b4aa54}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={NEI},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {British Association of Sport}%
+        {Excercise Medicine}%
+      }
+      \strng{namehash}{2cd507249c7b459e990eb12b7ed8800c}
+      \strng{fullhash}{2cd507249c7b459e990eb12b7ed8800c}
+      \strng{bibnamehash}{2cd507249c7b459e990eb12b7ed8800c}
+      \strng{authorbibnamehash}{2cd507249c7b459e990eb12b7ed8800c}
+      \strng{authornamehash}{2cd507249c7b459e990eb12b7ed8800c}
+      \strng{authorfullhash}{2cd507249c7b459e990eb12b7ed8800c}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British journal of sports medicine}
+      \field{number}{12}
+      \field{title}{Personality correlates of physical activity: a review and meta-analysis}
+      \field{volume}{40}
+      \field{year}{2006}
+      \field{pages}{958\bibrangedash 965}
+      \range{pages}{8}
+    \endentry
+    \entry{robinette2016overtrust}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=fe8b298cd1043baacb88cbea57e791e4}{%
+           family={Robinette},
+           familyi={R\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=26b67cf3987d064a2689268a62d27a9f}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wenchen},
+           giveni={W\bibinitperiod}}}%
+        {{hash=aee31c6eed0415a52016c59e5e833b46}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=390a6489322cd3fcbf0b828fcc018ecd}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={Ayanna\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=279797928377bde33ea48ce0e84e5d7d}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Alan\bibnamedelima R},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE Press}%
+      }
+      \strng{namehash}{19de7452d3752262a63f085fb53694b9}
+      \strng{fullhash}{5476c737008e000db5283598b5b0026d}
+      \strng{bibnamehash}{19de7452d3752262a63f085fb53694b9}
+      \strng{authorbibnamehash}{19de7452d3752262a63f085fb53694b9}
+      \strng{authornamehash}{19de7452d3752262a63f085fb53694b9}
+      \strng{authorfullhash}{5476c737008e000db5283598b5b0026d}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Eleventh ACM/IEEE International Conference on Human Robot Interaction}
+      \field{title}{Overtrust of robots in emergency evacuation scenarios}
+      \field{year}{2016}
+      \field{pages}{101\bibrangedash 108}
+      \range{pages}{8}
+    \endentry
+    \entry{russell2016artificial}{book}{}
+      \name{author}{2}{}{%
+        {{hash=18ee0a7bfc995f40254c9d425c977a49}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Stuart\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5de798d5fa3c0236c0478134cd23f52a}{%
+           family={Norvig},
+           familyi={N\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Malaysia; Pearson Education Limited,}%
+      }
+      \strng{namehash}{a4f50258a14156905c8d2b1b4704be30}
+      \strng{fullhash}{a4f50258a14156905c8d2b1b4704be30}
+      \strng{bibnamehash}{a4f50258a14156905c8d2b1b4704be30}
+      \strng{authorbibnamehash}{a4f50258a14156905c8d2b1b4704be30}
+      \strng{authornamehash}{a4f50258a14156905c8d2b1b4704be30}
+      \strng{authorfullhash}{a4f50258a14156905c8d2b1b4704be30}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Artificial intelligence: a modern approach}
+      \field{year}{2016}
+    \endentry
+    \entry{salem2015would}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=6af96ad4d36425981f31797dde19dedc}{%
+           family={Salem},
+           familyi={S\bibinitperiod},
+           given={Maha},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0785f0f2522325c141e91d1f6cfd75a0}{%
+           family={Lakatos},
+           familyi={L\bibinitperiod},
+           given={Gabriella},
+           giveni={G\bibinitperiod}}}%
+        {{hash=bd8b451e048fd28f6037ac748b98f1ee}{%
+           family={Amirabdollahian},
+           familyi={A\bibinitperiod},
+           given={Farshid},
+           giveni={F\bibinitperiod}}}%
+        {{hash=6d3cc1b8da07993e23041b7dfeecd16a}{%
+           family={Dautenhahn},
+           familyi={D\bibinitperiod},
+           given={Kerstin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{594accbff5fe19696b1c5e6b6c21d510}
+      \strng{fullhash}{b6d1330d67c77e95a3fc62d155af8129}
+      \strng{bibnamehash}{594accbff5fe19696b1c5e6b6c21d510}
+      \strng{authorbibnamehash}{594accbff5fe19696b1c5e6b6c21d510}
+      \strng{authornamehash}{594accbff5fe19696b1c5e6b6c21d510}
+      \strng{authorfullhash}{b6d1330d67c77e95a3fc62d155af8129}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction}
+      \field{title}{Would you trust a (faulty) robot?: Effects of error, task type and personality on human-robot cooperation and trust}
+      \field{year}{2015}
+      \field{pages}{141\bibrangedash 148}
+      \range{pages}{8}
+    \endentry
+    \entry{schneider2017framework}{article}{}
+      \name{author}{3}{}{%
+        {{hash=204738acfa28fd70a1514bb4135a2e85}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e286efe719e58aee24a52420864cbb5c}{%
+           family={Goerlich},
+           familyi={G\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=08c57d41a7b515e9a9ffbfa177733a7b}{%
+           family={Kummert},
+           familyi={K\bibinitperiod},
+           given={Franz},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a6c0cfbd242a69a638ab3380ce280500}
+      \strng{fullhash}{a6c0cfbd242a69a638ab3380ce280500}
+      \strng{bibnamehash}{a6c0cfbd242a69a638ab3380ce280500}
+      \strng{authorbibnamehash}{a6c0cfbd242a69a638ab3380ce280500}
+      \strng{authornamehash}{a6c0cfbd242a69a638ab3380ce280500}
+      \strng{authorfullhash}{a6c0cfbd242a69a638ab3380ce280500}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Systems Research}
+      \field{title}{A framework for designing socially assistive robot interactions}
+      \field{volume}{43}
+      \field{year}{2017}
+      \field{pages}{301\bibrangedash 312}
+      \range{pages}{12}
+    \endentry
+    \entry{schneider2016exercising}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=204738acfa28fd70a1514bb4135a2e85}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=08c57d41a7b515e9a9ffbfa177733a7b}{%
+           family={Kummert},
+           familyi={K\bibinitperiod},
+           given={Franz},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{fb93f8802d1f8291571b8b0aaec0afb7}
+      \strng{fullhash}{fb93f8802d1f8291571b8b0aaec0afb7}
+      \strng{bibnamehash}{fb93f8802d1f8291571b8b0aaec0afb7}
+      \strng{authorbibnamehash}{fb93f8802d1f8291571b8b0aaec0afb7}
+      \strng{authornamehash}{fb93f8802d1f8291571b8b0aaec0afb7}
+      \strng{authorfullhash}{fb93f8802d1f8291571b8b0aaec0afb7}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Humanoid Robots (Humanoids), 2016 IEEE-RAS 16th International Conference on}
+      \field{title}{Exercising with a humanoid companion is more effective than exercising alone}
+      \field{year}{2016}
+      \field{pages}{495\bibrangedash 501}
+      \range{pages}{7}
+    \endentry
+    \entry{sheridan1978human}{report}{}
+      \name{author}{2}{}{%
+        {{hash=e2257dbf6507d592cb5db08f26613f4c}{%
+           family={Sheridan},
+           familyi={S\bibinitperiod},
+           given={Thomas\bibnamedelima B},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c6c506270e7a45aee7ba13023d277ccd}{%
+           family={Verplank},
+           familyi={V\bibinitperiod},
+           given={William\bibnamedelima L},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Massachusets Insti of Tech Cambrdge Man-Machine Systems Lab}%
+      }
+      \strng{namehash}{67089cc7594ceb25bf7d50199acb9f43}
+      \strng{fullhash}{67089cc7594ceb25bf7d50199acb9f43}
+      \strng{bibnamehash}{67089cc7594ceb25bf7d50199acb9f43}
+      \strng{authorbibnamehash}{67089cc7594ceb25bf7d50199acb9f43}
+      \strng{authornamehash}{67089cc7594ceb25bf7d50199acb9f43}
+      \strng{authorfullhash}{67089cc7594ceb25bf7d50199acb9f43}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Human and computer control of undersea teleoperators}
+      \field{type}{techreport}
+      \field{year}{1978}
+    \endentry
+    \entry{tapus2008user}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2f6edcae99d9beb937f9ffb710c21697}{%
+           family={Tapus},
+           familyi={T\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0b0f68a6475be136328a082b308bd2f1}{%
+           family={{Ţ}{ă}pu{ş}},
+           familyi={Ţ\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6d035ac9587bd20b4992af4895fe6227}{%
+           family={Mataric},
+           familyi={M\bibinitperiod},
+           given={Maja\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f8de893bdae00291283cd001c1d40c25}
+      \strng{fullhash}{f8de893bdae00291283cd001c1d40c25}
+      \strng{bibnamehash}{f8de893bdae00291283cd001c1d40c25}
+      \strng{authorbibnamehash}{f8de893bdae00291283cd001c1d40c25}
+      \strng{authornamehash}{f8de893bdae00291283cd001c1d40c25}
+      \strng{authorfullhash}{f8de893bdae00291283cd001c1d40c25}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Intelligent Service Robotics}
+      \field{number}{2}
+      \field{title}{User robot personality matching and assistive robot behavior adaptation for post-stroke rehabilitation therapy}
+      \field{volume}{1}
+      \field{year}{2008}
+      \field{pages}{169\bibrangedash 183}
+      \range{pages}{15}
+    \endentry
+    \entry{Tsiakas2016}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=8e376b3225cbafeca621cd0ea615cfae}{%
+           family={Tsiakas},
+           familyi={T\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a13ce9b00d5520a9657ccaa66a5a6ce5}{%
+           family={Papakostas},
+           familyi={P\bibinitperiod},
+           given={Michalis},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cb9700a8c907bf538ea01ff8348edf97}{%
+           family={Chebaa},
+           familyi={C\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=0edfe78fa18bb1591d96776c0d002b0e}{%
+           family={Ebert},
+           familyi={E\bibinitperiod},
+           given={Dylan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1f0479e4e545bfb05a91078831c886d8}{%
+           family={Karkaletsis},
+           familyi={K\bibinitperiod},
+           given={Vangelis},
+           giveni={V\bibinitperiod}}}%
+        {{hash=de254dfde1af42d577f871cd6b140fd5}{%
+           family={Makedon},
+           familyi={M\bibinitperiod},
+           given={Fillia},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{dbfa82dd71710dd88108b53b315318fe}
+      \strng{fullhash}{4c9bfe7e99cd0975963d04b53fcd880c}
+      \strng{bibnamehash}{dbfa82dd71710dd88108b53b315318fe}
+      \strng{authorbibnamehash}{dbfa82dd71710dd88108b53b315318fe}
+      \strng{authornamehash}{dbfa82dd71710dd88108b53b315318fe}
+      \strng{authorfullhash}{4c9bfe7e99cd0975963d04b53fcd880c}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, we present an interactive learning and adapta-tion framework. The framework combines Interactive Rein-forcement Learning methods to effectively adapt and refine a learned policy to cope with new users. We argue that im-plicit feedback provided by the primary user and guidance from a secondary user can be integrated to the adaptation mechanism, resulting at a tailored and safe interaction. We illustrate this framework with a use case in Robot Assisted Therapy, presenting a Robot Yoga Trainer that monitors a yoga training session, adjusting the session parameters based on visual activity evaluation through depth data, to assist the user complete the session, following a Reinforce-ment Learning approach.}
+      \field{booktitle}{PETRA}
+      \field{isbn}{9781450343374}
+      \field{title}{{An Interactive Learning and Adaptation Framework for Adaptive Robot Assisted Therapy}}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1145/2910674.2935857
+      \endverb
+      \keyw{Activity recog-nition and understanding,Adap-tive Robot Assisted Therapy,Keywords Interactive Reinforcement Learning,Learning from implicit feedback,Policy Adaptation}
+    \endentry
+    \entry{Wang}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=bc9736b40ca170d1b1ff5b2a9bb2545b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ning},
+           giveni={N\bibinitperiod}}}%
+        {{hash=50ae79d13bd7932827ff13d5712160f0}{%
+           family={Pynadath},
+           familyi={P\bibinitperiod},
+           given={David\bibnamedelima V.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=3a44a7427f8527d854d1956da108f54a}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={Susan\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Christchurch, New Zealand}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Press}%
+      }
+      \strng{namehash}{c6dfd7c841021940c0c4b5d0c596ceb0}
+      \strng{fullhash}{c6dfd7c841021940c0c4b5d0c596ceb0}
+      \strng{bibnamehash}{c6dfd7c841021940c0c4b5d0c596ceb0}
+      \strng{authorbibnamehash}{c6dfd7c841021940c0c4b5d0c596ceb0}
+      \strng{authornamehash}{c6dfd7c841021940c0c4b5d0c596ceb0}
+      \strng{authorfullhash}{c6dfd7c841021940c0c4b5d0c596ceb0}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Eleventh ACM/IEEE International Conference on Human Robot Interaction}
+      \field{isbn}{978-1-4673-8370-7}
+      \field{series}{HRI '16}
+      \field{title}{Trust Calibration Within a Human-Robot Team: Comparing Automatically Generated Explanations}
+      \field{year}{2016}
+      \field{pages}{109\bibrangedash 116}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb http://dl.acm.org/citation.cfm?id=2906831.2906852
+      \endverb
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2906831.2906852
+      \endverb
+      \keyw{explainable a.i.,human-robot interaction,pomdp,trust}
+    \endentry
+    \entry{waytz2014mind}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7a10ac2aa7938ee18a7ea541d6141dae}{%
+           family={Waytz},
+           familyi={W\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bfeec73520d0b281bb450b69f053749a}{%
+           family={Heafner},
+           familyi={H\bibinitperiod},
+           given={Joy},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a2399e875164a430b1287a7e6afdaa01}{%
+           family={Epley},
+           familyi={E\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6cede8860e904833ce4238bed66afc9a}
+      \strng{fullhash}{6cede8860e904833ce4238bed66afc9a}
+      \strng{bibnamehash}{6cede8860e904833ce4238bed66afc9a}
+      \strng{authorbibnamehash}{6cede8860e904833ce4238bed66afc9a}
+      \strng{authornamehash}{6cede8860e904833ce4238bed66afc9a}
+      \strng{authorfullhash}{6cede8860e904833ce4238bed66afc9a}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Social Psychology}
+      \field{title}{The mind in the machine: Anthropomorphism increases trust in an autonomous vehicle}
+      \field{volume}{52}
+      \field{year}{2014}
+      \field{pages}{113\bibrangedash 117}
+      \range{pages}{5}
+    \endentry
+    \entry{wu2016double}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=97a832d3ad7db041871ed57f71173a72}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Huasen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4f1e33032cdd17c1c4c17fe05bd0772d}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{00c1abce30655da5f95e385aeaa43f44}
+      \strng{fullhash}{00c1abce30655da5f95e385aeaa43f44}
+      \strng{bibnamehash}{00c1abce30655da5f95e385aeaa43f44}
+      \strng{authorbibnamehash}{00c1abce30655da5f95e385aeaa43f44}
+      \strng{authornamehash}{00c1abce30655da5f95e385aeaa43f44}
+      \strng{authorfullhash}{00c1abce30655da5f95e385aeaa43f44}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Neural Information Processing Systems}
+      \field{title}{Double Thompson Sampling for Dueling Bandits}
+      \field{year}{2016}
+      \field{pages}{649\bibrangedash 657}
+      \range{pages}{9}
+    \endentry
+    \entry{yue2012k}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d433272a8da287e7d9b17c3f80798a3f}{%
+           family={Yue},
+           familyi={Y\bibinitperiod},
+           given={Yisong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0a414b25d428de86eea64b50bbf0bf52}{%
+           family={Broder},
+           familyi={B\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2166da52c267a8b58d8f73cb939e68b3}{%
+           family={Kleinberg},
+           familyi={K\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0e5ae7e30da87e8ba62ced27d4e6f2aa}{%
+           family={Joachims},
+           familyi={J\bibinitperiod},
+           given={Thorsten},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8f945cda6061d62870a9ba2a69f730b7}
+      \strng{fullhash}{97dbbfb0d2c12df198582a3f9052322e}
+      \strng{bibnamehash}{8f945cda6061d62870a9ba2a69f730b7}
+      \strng{authorbibnamehash}{8f945cda6061d62870a9ba2a69f730b7}
+      \strng{authornamehash}{8f945cda6061d62870a9ba2a69f730b7}
+      \strng{authorfullhash}{97dbbfb0d2c12df198582a3f9052322e}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computer and System Sciences}
+      \field{number}{5}
+      \field{title}{The k-armed dueling bandits problem}
+      \field{volume}{78}
+      \field{year}{2012}
+      \field{pages}{1538\bibrangedash 1556}
+      \range{pages}{19}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

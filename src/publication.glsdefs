@@ -1,0 +1,300 @@
+\ifglsentryexists{loa}{}%
+{%
+\gls@defglossaryentry{loa}%
+{%
+name={LoA},%
+sort={LoA},%
+type={main},%
+first={Level of Automation\glsspace (LoA)},%
+firstplural={Level of Automations\glsspace (LoAs)},%
+text={LoA},%
+plural={LoAs},%
+description={Level of Automation},%
+descriptionplural={Level of Automation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Level of Automation},%
+longplural={Level of Automations},%
+short={LoA},%
+shortplural={LoAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sar}{}%
+{%
+\gls@defglossaryentry{sar}%
+{%
+name={SAR},%
+sort={SAR},%
+type={main},%
+first={Socially Assistive Robot\glsspace (SAR)},%
+firstplural={Socially Assistive Robots\glsspace (SARs)},%
+text={SAR},%
+plural={SARs},%
+description={Socially Assistive Robot},%
+descriptionplural={Socially Assistive Robot\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Socially Assistive Robot},%
+longplural={Socially Assistive Robots},%
+short={SAR},%
+shortplural={SARs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ldb}{}%
+{%
+\gls@defglossaryentry{ldb}%
+{%
+name={LdB},%
+sort={LdB},%
+type={main},%
+first={Learning by Demonstration\glsspace (LdB)},%
+firstplural={Learning by Demonstrations\glsspace (LdBs)},%
+text={LdB},%
+plural={LdBs},%
+description={Learning by Demonstration},%
+descriptionplural={Learning by Demonstration\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Learning by Demonstration},%
+longplural={Learning by Demonstrations},%
+short={LdB},%
+shortplural={LdBs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hci}{}%
+{%
+\gls@defglossaryentry{hci}%
+{%
+name={HCI},%
+sort={HCI},%
+type={main},%
+first={Human-Computer Interaction\glsspace (HCI)},%
+firstplural={Human-Computer Interactions\glsspace (HCIs)},%
+text={HCI},%
+plural={HCIs},%
+description={Human-Computer Interaction},%
+descriptionplural={Human-Computer Interaction\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Human-Computer Interaction},%
+longplural={Human-Computer Interactions},%
+short={HCI},%
+shortplural={HCIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hra}{}%
+{%
+\gls@defglossaryentry{hra}%
+{%
+name={HRA},%
+sort={HRA},%
+type={main},%
+first={Human-Robot Alliance\glsspace (HRA)},%
+firstplural={Human-Robot Alliances\glsspace (HRAs)},%
+text={HRA},%
+plural={HRAs},%
+description={Human-Robot Alliance},%
+descriptionplural={Human-Robot Alliance\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Human-Robot Alliance},%
+longplural={Human-Robot Alliances},%
+short={HRA},%
+shortplural={HRAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hri}{}%
+{%
+\gls@defglossaryentry{hri}%
+{%
+name={HRI},%
+sort={HRI},%
+type={main},%
+first={Human-Robot Interaction\glsspace (HRI)},%
+firstplural={Human-Robot Interactions\glsspace (HRIs)},%
+text={HRI},%
+plural={HRIs},%
+description={Human-Robot Interaction},%
+descriptionplural={Human-Robot Interaction\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Human-Robot Interaction},%
+longplural={Human-Robot Interactions},%
+short={HRI},%
+shortplural={HRIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{mab}{}%
+{%
+\gls@defglossaryentry{mab}%
+{%
+name={MAB},%
+sort={MAB},%
+type={main},%
+first={Multi-Armed Bandit Problem\glsspace (MAB)},%
+firstplural={Multi-Armed Bandit Problems\glsspace (MABs)},%
+text={MAB},%
+plural={MABs},%
+description={Multi-Armed Bandit Problem},%
+descriptionplural={Multi-Armed Bandit Problem\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Multi-Armed Bandit Problem},%
+longplural={Multi-Armed Bandit Problems},%
+short={MAB},%
+shortplural={MABs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dts}{}%
+{%
+\gls@defglossaryentry{dts}%
+{%
+name={DTS},%
+sort={DTS},%
+type={main},%
+first={Double Thompson Sampling\glsspace (DTS)},%
+firstplural={Double Thompson Samplings\glsspace (DTSs)},%
+text={DTS},%
+plural={DTSs},%
+description={Double Thompson Sampling},%
+descriptionplural={Double Thompson Sampling\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Double Thompson Sampling},%
+longplural={Double Thompson Samplings},%
+short={DTS},%
+shortplural={DTSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{rmed}{}%
+{%
+\gls@defglossaryentry{rmed}%
+{%
+name={RMED},%
+sort={RMED},%
+type={main},%
+first={\glsspace (RMED)},%
+firstplural={s\glsspace (RMEDs)},%
+text={RMED},%
+plural={RMEDs},%
+description={},%
+descriptionplural={\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={s},%
+short={RMED},%
+shortplural={RMEDs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{wai}{}%
+{%
+\gls@defglossaryentry{wai}%
+{%
+name={WAI},%
+sort={WAI},%
+type={main},%
+first={Working Alliance Inventory\glsspace (WAI)},%
+firstplural={Working Alliance Inventorys\glsspace (WAIs)},%
+text={WAI},%
+plural={WAIs},%
+description={Working Alliance Inventory},%
+descriptionplural={Working Alliance Inventory\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Working Alliance Inventory},%
+longplural={Working Alliance Inventorys},%
+short={WAI},%
+shortplural={WAIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

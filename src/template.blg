@@ -1,0 +1,19 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'template.blg'
+[22] biber:315> INFO - === Fri Apr 12, 2019, 15:16:05
+[40] Biber.pm:371> INFO - Reading 'template.bcf'
+[99] Biber.pm:889> INFO - Found 35 citekeys in bib section 0
+[110] Biber.pm:4093> INFO - Processing section 0
+[119] Biber.pm:4254> INFO - Looking for bibtex format file 'mybibfile.bib' for section 0
+[121] bibtex.pm:1523> INFO - LaTeX decoding ...
+[187] bibtex.pm:1340> INFO - Found BibTeX data source 'mybibfile.bib'
+[189] Utils.pm:193> WARN - Duplicate entry key: 'kidd2008robots' in file 'mybibfile.bib', skipping ...
+[221] Utils.pm:193> WARN - month field 'Aug' in entry 'guneysu2017' is not an integer - this will probably not sort properly.
+[415] Utils.pm:193> WARN - BibTeX subsystem: /tmp/36ESdrRXq4/mybibfile.bib_26811.utf8, line 137, warning: 1 characters of junk seen at toplevel
+[453] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[453] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[453] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[453] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[483] bbl.pm:636> INFO - Writing 'template.bbl' with encoding 'UTF-8'
+[494] bbl.pm:739> INFO - Output to template.bbl
+[494] Biber.pm:110> INFO - WARNINGS: 3

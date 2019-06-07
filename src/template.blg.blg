@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'template.blg.blg'
+[23] biber:315> INFO - === Fri Apr 12, 2019, 13:33:07
+[87] Utils.pm:209> ERROR - Cannot find control file 'template.blg.bcf'! - Did latex run successfully on your .tex file before you ran biber?
+[87] Biber.pm:114> INFO - ERRORS: 1

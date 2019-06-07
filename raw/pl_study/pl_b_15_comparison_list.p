@@ -1,0 +1,42 @@
+(lp1
+(lp2
+VHampelmaenner
+p3
+aVKniebeuge
+p4
+aa(lp5
+VAusfallschritt Seite
+p6
+aVSuperman
+p7
+aa(lp8
+VBeckenheben
+p9
+aVTriceps
+p10
+aa(lp11
+VAusfallschritt Vorne
+p12
+aVLiegestuetze
+p13
+aa(lp14
+VNacken
+p15
+aVKniebeuge
+p16
+aa(lp17
+VMountain Climbers
+p18
+aVSeite
+p19
+aa(lp20
+VSchiebetritt
+p21
+aVSchlaege
+p22
+aa(lp23
+VFaustschlaege
+p24
+aVHampelmaenner
+p25
+aa.
