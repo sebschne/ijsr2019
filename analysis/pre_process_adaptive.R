@@ -181,14 +181,14 @@ FIRST_RANKED.df <- data.frame(data_set$NLP.1.,data_set$condition)
 colnames(FIRST_RANKED.df) <- c("FIRST","condition")
 
 NEO_AGREEABLENESS.df <- prepare(NEO_AGREEABLENESS[1:40,], "Agreeableness") 
-NEO_OPENNESS.df <- prepare(NEO_OPENNESS[1:40,], "OPENNESS") 
-NEO_CONSCIENTOUSNESS.df <- prepare(NEO_CONSCIENTOUSNESS[1:40,], "CONSCIENTOUSNESS") 
-NEO_EXTROVERSION.df <- prepare(NEO_EXTROVERSION[1:40,], "EXTROVERSION") 
-NEO_NEUROTICISM.df <- prepare(NEO_NEUROTICISM[1:40,], "NEUROTICISM") 
+NEO_OPENNESS.df <- prepare(NEO_OPENNESS[1:40,], "Opennens") 
+NEO_CONSCIENTOUSNESS.df <- prepare(NEO_CONSCIENTOUSNESS[1:40,], "Conscientiousness") 
+NEO_EXTROVERSION.df <- prepare(NEO_EXTROVERSION[1:40,], "Extroversion") 
+NEO_NEUROTICISM.df <- prepare(NEO_NEUROTICISM[1:40,], "Neuroticism") 
 
 NEO.df <- rbind(NEO_AGREEABLENESS.df,NEO_OPENNESS.df,NEO_CONSCIENTOUSNESS.df,NEO_EXTROVERSION.df,NEO_NEUROTICISM.df)
 
-my_comparisons <- list(c("adaptivity","adaptability"))
+my_comparisons <- list(c("adaptive","adaptable"))
 ggboxplot(na.omit(NEO.df), x = "Item", y = "Score", ggtheme = theme_pubclean(),label.rectangle = TRUE, palette = "npg",fill=c("Conditions"))
 
 ggboxplot(na.omit(NEO.df), x = "Conditions", y = "Score",fill=c("Conditions"), facet.by = "Item") + stat_compare_means(comparisons = my_comparisons, label = "p.value", method='t.test')

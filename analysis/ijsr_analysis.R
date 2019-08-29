@@ -74,7 +74,7 @@ library(gvlma)
 var_palette <- "gray"
 var_ggtheme <- theme_gray()
 
-source("pre_process.R")
+source("pre_process_adaptive.R")
 alpha.wai <- round(cronbach(WAI)[['Alpha']],digits =2)
 alpha.nars <- round(cronbach(NARS)[['Alpha']],digits =2)
 alpha.sus <- round(cronbach(SUS)[['Alpha']],digits =2)
@@ -101,18 +101,18 @@ result.discomfort <- wilcox.test(discomfort.df$Score~discomfort.df$Conditions)
 result.wai <- t.test(WAI.df$Score~WAI.df$Conditions)
 
 
-my_comparisons <- list(c("adaptivity","adaptability"))
+my_comparisons <- list(c("adaptive","adaptable"))
 
 SCALES <- subset(hri.df, hri.df$Item == "SUS" | hri.df$Item == "Physical Activity Enjoyment" | hri.df$Item == "Cooperation" |hri.df$Item == "Working Alliance Inventory" )
 p <- ggboxplot(SCALES, x = "Conditions", y = "Score",
 color = "black", palette = palette,fill="Conditions",ggtheme = theme_pubclean(), facet.by = "Item",  panel.labs.font = list( size = 14))+ 
 stat_compare_means(comparisons = my_comparisons, label = "p.signif", method='wilcox.test')
 ggpar(p, ylim = c(1,6),
-font.x = c(14),
-font.y = c(14), 
-font.main = c(14),
-font.legend = c(14),
-font.tickslab =c(14), legend ="top")
+font.x = c(18),
+font.y = c(18), 
+font.main = c(18),
+font.legend = c(18),
+font.tickslab =c(18), xlab = '' ,legend ="bottom")
 ggsave(filename="../src/figures/figure-latex/sus.pdf", plot = p)
 
 
@@ -159,6 +159,7 @@ plot<- plotmat (M, pos=c(1,2),
 name= c( "Competence","Condition", "Working Alliance"), 
 box.type = "rect", box.size = 0.15, box.prop=0.1,  curve=.0)
 
+library('RColorBrewer')
 
 pref_ground_truth <- read.csv("../raw/pl_study/groundtruth.csv")
 
@@ -184,4 +185,30 @@ p <- ggplot(test, aes(score, learner)) + geom_tile(aes(fill = category),
   scale_fill_manual(values=rev(brewer.pal(5,"Pastel1")))
 p <- p + theme(panel.spacing = unit(0, 'lines')) + facet_wrap(id~.) 
 ggpar(p, legend = "top", xlab = 'ranking',ylab = '')
+
+distances <- read.csv('../raw/pl_study/distances.csv')
+distances <- melt(distances,'X')
+
+p<-ggboxplot(distances, x = "variable", y = "value",
+             color = "black", palette = "Pastel1",fill="variable",ggtheme = theme_pubclean(), panel.labs.font = list( size = 16)) 
+
+p <- ggpar(p,
+      font.x = c(14),
+      font.y = c(14), 
+      font.main = c(14),
+      font.legend = c(14),
+      font.tickslab =c(14), legend ="none", xlab = 'distance measure', ylab = 'distance')
+ggsave(filename="../src/figures/figure-latex/distances.svg", plot = p)
+
+costs <- read.csv('../raw/costs.csv')
+p<-ggboxplot(costs, x = "condition", y = "money",
+             color = "black", palette = "npg",fill="condition",ggtheme = theme_pubclean(), panel.labs.font = list( size = 16)) 
+
+ggpar(p,
+           font.x = c(14),
+           font.y = c(14), 
+           font.main = c(14),
+           font.legend = c(14),
+           font.tickslab =c(14), legend ="none", xlab = 'conditions', ylab = 'Euro')
+ggsave(filename="../src/figures/figure-latex/costs.svg", plot = p)
 
